@@ -1,0 +1,61 @@
+body {
+    line-height: 1.7;
+    color: rgb(87, 49, 0);
+    font-family: 'Nanum Brush Script', cursive;
+    font-size: 20px;
+}
+
+.img-fluid {
+    width: 40%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.menu {
+    border-bottom: 1px solid gray;
+    text-align: center;
+}
+
+ul {
+    font-size: 30px;
+    margin: auto;
+}
+
+.name {
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+    color: rgb(1, 1, 58);
+    background-color: darkkhaki;
+}
+ 
+.text {
+    background-color: rgb(247, 228, 187);
+    border: 5px groove rosybrown;
+    padding: 10px;
+}
+
+.paint {
+    background-color:  rgb(247, 228, 187);
+    border: 5px double rosybrown;
+    padding: 10px;
+    font-style: italic;
+    text-align: right;
+}
+
+.caption {
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1em;
+    font-size: 19px;
+    padding: 7px 10px;
+    color: rgb(58, 94, 204);
+    display: inline-block;
+}
